@@ -51,6 +51,40 @@
       "age": 2,
       "place": "Visakhapatnam",
       "gender": "Male"
+    },
+    {
+      "id": 2,
+      "name": "Tommy",
+      "age": 1,
+      "place": "Goa",
+      "gender": "Male"
+    },
+    {
+      "id": 3,
+      "name": "Cherry",
+      "age": 5,
+      "place": "delhi",
+      "gender": "Female"
+    },    {
+      "id": 4,
+      "name": "Jannie",
+      "age": 4,
+      "place": "Uttar Pradesh",
+      "gender": "Female"
+    },
+    {
+      "id": 5,
+      "name": "Tiger",
+      "age": 3,
+      "place": "Visakhapatnam",
+      "gender": "Male"
+    },
+    {
+      "id": 6,
+      "name": "Hinna",
+      "age": 2,
+      "place": "up",
+      "gender": "Female"
     }
     ]
   }
