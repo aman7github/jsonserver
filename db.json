@@ -105,6 +105,33 @@
         "kms": 8000,
         "Description": "Tata Nexon with all original documents",
         "Price": 800000
+      },
+      {
+        "brand": "mahindra",
+        "type": "auto",
+        "year": "22",
+        "kms": "1000",
+        "Description": "mahindra with all original documents",
+        "Price": "500000",
+        "id": 3
+      },
+      {
+        "brand": "suzuki",
+        "type": "auto",
+        "year": "21",
+        "kms": "800",
+        "Description": "suzuki with all original documents",
+        "Price": "400000",
+        "id": 4
+      },
+      {
+        "brand": "nishan",
+        "type": "manual",
+        "year": "20",
+        "kms": "700",
+        "Description": "nishan with all original documents",
+        "Price": "550000",
+        "id": 5
       }
     ],
   "wishlisted_cars": [
